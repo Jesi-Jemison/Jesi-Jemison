@@ -6,6 +6,7 @@ My background is in data analysis, reporting, operational analytics and process 
 
 I mostly work across Python, SQL, Power BI, Power Query and Excel, with occasional adventures into APIs, automation and whatever else solves the problem cleanly.
 
+
 **🔮 What I like building**
 
 Most of my projects sit somewhere between analytics and useful tooling:
@@ -23,6 +24,7 @@ Most of my projects sit somewhere between analytics and useful tooling:
 **My general approach:**
 
 Understand the system → find the friction → make the boring parts behave.
+
 
 **🚀 Current Projects**
 
@@ -49,6 +51,7 @@ statistical outliers
 It then produces an explainable Dataset Integrity Score and shows what was found, why it may matter and what deserves investigation.
 
 A guardian at the gate between messy data and trustworthy analysis.
+
 
 **🚧 Currently in development**
 
@@ -87,6 +90,7 @@ personal listening trends
 Built because apparently simply checking who's playing in Sydney wasn't complicated enough.
 
 🚧 Currently in development
+
 
 **🧰 Toolkit**
 
