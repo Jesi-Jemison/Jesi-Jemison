@@ -11,15 +11,15 @@ I mostly work across Python, SQL, Power BI, Power Query and Excel, with occasion
 
 Most of my projects sit somewhere between analytics and useful tooling:
 
-🔍 Data quality & validation — finding the quiet problems that make analysis unreliable
+🔍 Data quality & validation - finding the quiet problems that make analysis unreliable
 
-⚙️ Automation — replacing repetitive workflows with something less painful
+⚙️ Automation - replacing repetitive workflows with something less painful
 
-📊 Analytics & reporting — turning messy source data into useful information
+📊 Analytics & reporting - turning messy source data into useful information
 
-🧩 Systems thinking — understanding how the pieces fit together before optimising them
+🧩 Systems thinking - understanding how the pieces fit together before optimising them
 
-🛠️ Small practical tools — because not every problem needs an enterprise platform
+🛠️ Small practical tools - because not every problem needs an enterprise platform
 
 **My general approach:**
 
