@@ -30,7 +30,7 @@ Understand the system → find the friction → make the boring parts behave.
 
 ⚙️ TALOS — Data Quality Sentinel
 
-Python · pandas · Streamlit · pytest
+Python · pandas · Streamlit · Flask · pytest
 
 TALOS is a lightweight Python application designed to inspect questionable datasets before they make their way into analysis.
 
@@ -94,7 +94,7 @@ Built because apparently simply checking who's playing in Sydney wasn't complica
 **🗺️ More projects in motion**
 
 - **[Hello, Traveller](https://traveller.jesicat.online)** — an intergalactic field guide for exploring your wonderfully inconvenient brain.
-- **Locus — Australian Geo Atlas** — an interactive geography and data explorer. Planned home: `locus.jesicat.online`.
+- **[Locus — Australian Geo Atlas](https://github.com/Jesi-Jemison/locus)** — an interactive geography and data explorer. Planned home: `locus.jesicat.online`.
 
 **🌱 In the pipeline**
 
