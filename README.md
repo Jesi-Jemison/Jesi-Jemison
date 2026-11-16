@@ -52,6 +52,8 @@ It then produces an explainable Dataset Integrity Score and shows what was found
 
 A guardian at the gate between messy data and trustworthy analysis.
 
+[Source code](https://github.com/Jesi-Jemison/TALOS) · Planned home: `talos.jesicat.online`.
+
 
 **🚧 Currently in development**
 
@@ -89,8 +91,23 @@ personal listening trends
 
 Built because apparently simply checking who's playing in Sydney wasn't complicated enough.
 
-🚧 Currently in development
+**🗺️ More projects in motion**
 
+- **[Hello, Traveller](https://traveller.jesicat.online)** — an intergalactic field guide for exploring your wonderfully inconvenient brain.
+- **Locus — Australian Geo Atlas** — an interactive geography and data explorer. Planned home: `locus.jesicat.online`.
+
+**🌱 In the pipeline**
+
+| Project | Planned home |
+| --- | --- |
+| Playwith · music app | `playwith.jesicat.online` |
+| Bullet journal | `bullet.jesicat.online` |
+| Feed Me · recipes | `feedme.jesicat.online` |
+| Spotify data · In Stereo | `jesicat.online/in-stereo` |
+| Greenwood Apothecary | `greenwood.jesicat.online` |
+| Wildmind | `wildmind.jesicat.online` |
+
+These are planned addresses, not launch announcements. The projects will be linked here as they go live.
 
 **🧰 Toolkit**
 
