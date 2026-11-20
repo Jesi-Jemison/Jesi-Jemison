@@ -28,7 +28,7 @@ Understand the system → find the friction → make the boring parts behave.
 
 **🚀 Current Projects**
 
-⚙️ TALOS — Data Quality Sentinel
+⚙️ TALOS - Data Quality Sentinel
 
 Python · pandas · Streamlit · Flask · pytest
 
@@ -93,8 +93,8 @@ Built because apparently simply checking who's playing in Sydney wasn't complica
 
 **🗺️ More projects in motion**
 
-- **[Hello, Traveller](https://traveller.jesicat.online)** — an intergalactic field guide for exploring your wonderfully inconvenient brain.
-- **[Locus — Australian Geo Atlas](https://github.com/Jesi-Jemison/locus)** — an interactive geography and data explorer. Planned home: `locus.jesicat.online`.
+- **[Hello, Traveller](https://traveller.jesicat.online)** - an intergalactic field guide for exploring your wonderfully inconvenient brain.
+- **[Locus - Australian Geo Atlas](https://github.com/Jesi-Jemison/locus)** - an interactive geography and data explorer. Planned home: `locus.jesicat.online`.
 
 **🌱 In the pipeline**
 
